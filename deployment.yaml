@@ -8,5 +8,5 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: my-app
+      app: my-app-version
 
